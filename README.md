@@ -1,0 +1,1 @@
+# Automated-Venture-Capital-startup-evaluation-system-built-in-n8n-using-Google-Sheets-and-OpenAI.
